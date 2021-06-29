@@ -1,0 +1,166 @@
+body{
+    text-align: center;
+}
+
+#Intro{
+    background: linear-gradient(#ff0000 0%, #fff700 100%);
+    
+}
+#ken{
+    height:198px;
+    margin-bottom: 50px;
+     border-radius:50%;
+}
+#cric{
+    height:198px;
+    
+}
+h1{
+    font-size: 48px;
+    color: deepskyblue;
+}
+h3{
+    font-size: 22px;
+        color: chartreuse;
+}
+p{
+    font-size:26.8125px;
+    color:cornsilk;
+}
+#hobby{
+    background: linear-gradient(#49008a 0%, #ff6ed3 100%);
+}
+
+    
+}
+.link{
+    
+    color:red;
+    
+    padding-left: 30px;
+    padding-right: 25px;
+  
+    font-size: 20.0625px;
+    font-family: cursive;
+    display: inline;
+}
+.link:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color:crimson;
+    text-shadow: 2px 2px grey;
+}
+#contact{
+    background-color: firebrick;
+}
+#contact iframe{
+    width:100%;
+}
+.contact_1 h3{
+    display: inline;
+    
+}
+#review{
+    background:linear-gradient(#00fffb 0% , #62ff00 100%)
+}
+#vkwbsite{
+    color:red;
+    font-size:17.5px;
+    text-shadow: 2px 2px white;
+    font-weight: bolder;
+}
+#works{
+    background: #40E0D0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#msdpic {
+  transition-duration: 0.4s;
+    
+    font-size: 25px;
+        
+}
+
+#msdpic:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+#buttonmsd{
+    color:darkblue;
+    text-shadow: none;
+    width: 60px;
+    height:40px;
+    
+}
+h2{
+    font-size: 48px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.inspirationimg{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#APJ{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+    
+}
+#MSD{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+    
+}
+#APJ:hover{
+    transform: scale(0.9)
+    
+}
+#MSD:hover{
+    transform: scale(0.9)
+    
+}
+#Inspiration{
+    background: #03001e;  
+background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    top: 0px;
+    
+    z-index: 10;
+    cursor: pointer;
+    
+    width: 100%;
+    
+}
+
+.link {
+  float: left;
+}
+
+.link a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.link a:hover {
+  background-color: #111;
+}
